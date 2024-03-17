@@ -14,4 +14,5 @@ Bibliotecas:
   - sklearn.tree
   - sklearn.metrics
   - sklearn.preprocessing
+
 Realizando avaliações para métricas de acurácia, o modelo que melhor performou o DecisionTreeClassifier, com 94% de acurácia.
